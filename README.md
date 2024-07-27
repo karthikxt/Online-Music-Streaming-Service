@@ -1,7 +1,7 @@
 # Online-Music-Streaming-Service
 Welcome to the Online Music Streaming Service! This project is a web-based application for streaming music, built with HTML, CSS, JavaScript, and PHP. The service includes features such as user login, audio streaming, feedback submission, and admin-specific audio management and upload functionalities. Its basically an online audio/music streaming service which is build using HTML, CSS, JS and PHP as the backend. It is an frontend project which has user login module, audio streaming module, a feedback page and an separate admin audio management page.  
 
-Table of Contents
+## Table of Contents
    - Features
    - Technologies Used
    - Installation
@@ -11,7 +11,7 @@ Table of Contents
    - License
    - Contact
 
-Features
+## Features
 
   - User Login Module: Secure login and registration for users.
   - Audio Streaming Module: Stream music from a curated library.
@@ -19,13 +19,13 @@ Features
   - Admin Audio Management: Admins can manage existing audio content.
   - Upload Audio Page: Admins can upload new audio files.
 
-Technologies Used
+## Technologies Used
 
   - Frontend: HTML, CSS, JavaScript
   - Backend: PHP
 
 
-Installation
+## Installation
 
 1. Clone the Repository:
 
@@ -62,7 +62,7 @@ Installation
 
           http://localhost/online-music-streaming-service.
 
-Usage
+## Usage
 
 User Login:
 
@@ -82,7 +82,7 @@ Admin Management:
 
     
 
-Project Structure
+## Project Structure
 
     online-music-streaming-service/
     │
@@ -114,8 +114,10 @@ Project Structure
     ├── index.php
     └── database.sql
 
+## Demo
+You can check out the live demo here :https://karthikxt.github.io/Online-Music-Streaming-Service/.
 
-Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -126,11 +128,11 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 
-License
+## License
 
 This project is under the process of licensing under the SRM University. See the LICENSE file for more information.
 
-Contact
+## Contact
 
 For any inquiries or issues, please contact [kx4904@gmail.com].
 
